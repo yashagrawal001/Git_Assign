@@ -3,3 +3,6 @@ I work at HCL
 ..
 This is the new Line.
 I am adding this to create a merge conflict.
+..This is line 5
+This is line 8
+This is line 9
